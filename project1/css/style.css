@@ -1,0 +1,71 @@
+body{
+  /*color: red;*/
+  /*font-family: Tahoma;*/
+}
+
+.header{
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 60px auto;
+}
+
+.header span{
+  display: block;
+}
+
+.section{
+	margin-bottom: 20px;
+}
+.header strong{
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.form{
+	border: 5px solid #2727d9;
+	padding: 30px 20px;
+}
+.form_header{
+	margin-bottom: 20px;
+	font-size: 20px;
+	font-weight: 900;
+}
+
+.form_btn{
+	background-color: red;
+	margin: 12px auto;
+}
+
+.form input{
+	margin-bottom: 12px;
+}
+
+.section_header{
+	font-size: 24px;
+	font-weight: 700;
+	margin-top: 100px;
+}
+.feature{
+	margin: 60px auto;
+}
+
+.feature p{
+	margin-top: 20px;
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.video{
+	margin-bottom: 30px;
+}
+
+.feature_box{
+	height: 160px;
+}
+
+.faces{
+	height: 210px;
+	/*width: 310px;*/
+	margin: 25px 15px;
+}
